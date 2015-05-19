@@ -3,9 +3,9 @@ American Dinner
 
 This is a scene that I realized using Blender from this picture:
 
-![original](room-main.png)
+![original](https://raw.githubusercontent.com/jeremt/AmericanDinner/master/room-main.jpg)
 
 Result
 ------
 
-![result](result.png)
+![result](https://raw.githubusercontent.com/jeremt/AmericanDinner/master/main.png)
