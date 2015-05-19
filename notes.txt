@@ -1,0 +1,59 @@
+Comments
+---------
+
+Thanks to this assessment, I had the opportunity to learn blender, modeling
+and rendering for the first time. Blender it a very complete and powerful tool
+which provide many interesting features and I tried some of the following for
+this project.
+
+### Architecture design
+
+Blender offers many features for project organization. I could use multiple
+files for each object, and link them together. Also create several scenes for
+the different point of views in the main file. And finally, I could use layers
+when I wanted to just display some objects instead of the full scene which
+can be very useful sometimes.
+
+### Bezier curves
+
+As in Illustrator, Blender as a bezier curve tool which is very useful to draw
+paths. I used it for chairs feet or seats borders for instance.
+
+### Physic simulation
+
+I used the physic simulation, more precisely the Clothes simulation to generate
+the shape of the flag curtain. This is very convenient because you can easily
+tweak the parameters and save the final result at the frame you want as your
+final geometry.
+
+### Sculpting
+
+For the menu or the napkin I also wanted some irregularities but the cloth
+simulation didn't work well. That's why I used the sculpting tool on subdivided
+plans instead.
+
+### Cycle Rendering
+
+This render mode is very powerful. It allows to generate very precise materials
+by combining shaders. One of the most powerful feature is that you can not only
+update the color of the vertices but also the normals and even the geometry.
+Moreover, you also have many functions to do some operations on colors (thanks
+to that I could very easily change the colors of the star pattern of the
+window whenever I need to).
+
+### Procedural textures
+
+One of my favorite feature in cycle rendering is procedural textures. Indeed,
+there is several procedural textures that you can use in the material node
+editor which helped me to generate interesting procedural materials including
+booth seat's and chair's leather and floor patterns.
+
+Images Reference
+----------------
+star: http://pngimg.com/upload/star_PNG1595.png
+brick: http://www.bricksntiles.com/textures/brickwork-texture.jpg
+flag: http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vertical_United_States_Flag.svg/2000px-Vertical_United_States_Flag.svg.png
+keep-calm: generated using http://www.keepcalm-o-matic.co.uk/
+logo: extracted from the given menu picture
+marilyn: http://p8.storage.canalblog.com/88/96/312561/15596571.jpg
+elvis: https://s-media-cache-ak0.pinimg.com/236x/c4/a3/b5/c4a3b5e13cfe06d1981849d59a31110e.jpg
